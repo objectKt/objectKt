@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kt</h1>
-<h3 align="center">安卓機器人開發者和學習者、對工作保持激情</h3>
+<h3 align="center">一個對工作和學習保持熱情的安卓機器人開發者和學習者</h3>
 <h3 align="center">A passionate android-robot developer and learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectkt&label=Profile%20views&color=0e75b6&style=flat" alt="objectkt" /> </p>
