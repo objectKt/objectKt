@@ -1,4 +1,4 @@
-<h1 align="center">Rhizo Fisher</h1>
+<h1 align="center">Fisher</h1>
 <h3 align="center">一個對工作和學習保持熱情的安卓機器人開發者和學習者</h3>
 <h3 align="center">A passionate android-robot developer and learner</h3>
 
